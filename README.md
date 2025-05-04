@@ -49,13 +49,13 @@ Eventually, I decided to **broaden the purpose** by:
 ---
 
 ## 🔗 Live Demo / Preview
-[Visit the live tool here](#) *(https://textformatter-freeresourcepagebykavya.netlify.app/)*
+[Visit the live tool here] *(https://textformatter-freeresourcepagebykavya.netlify.app/)*
 
 ---
 
 ## 💬 Feedback
 Open to feedback and suggestions!  
-Feel free to open an issue or connect on [LinkedIn](https://linkedin.com/in/your-profile).
+Feel free to open an issue or connect on [LinkedIn](www.linkedin.com/in/trivedikavya).
 
 ---
 
