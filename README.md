@@ -24,6 +24,12 @@ The original inspiration came from a website called **Style Text**, which offere
 - ✅ Simplified text copying process
 - ✅ Ensured styled text appears exactly the same on LinkedIn
 - ✅ Improved overall performance and functionality
+- Here is my sketch
+- <img src="images/sketch.jpeg" alt="ori">
+- & here is my Original UI
+- <img src="images/mainscreen.png" alt="ori">
+- <img src="images/mainfunction.png" alt="ori">
+
 
 
 ---
