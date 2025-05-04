@@ -49,7 +49,7 @@ Eventually, I decided to **broaden the purpose** by:
 ---
 
 ## 🔗 Live Demo / Preview
-[Visit the live tool here](#) *(Add your deployment link)*
+[Visit the live tool here](#) *(https://textformatter-freeresourcepagebykavya.netlify.app/)*
 
 ---
 
