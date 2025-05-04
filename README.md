@@ -40,7 +40,7 @@ Eventually, I decided to **broaden the purpose** by:
 
 | Stage        | Description                                 |
 |--------------|---------------------------------------------|
-| 🖼️ Original UI | Screenshot of the original confusing site |
+| 🖼️ Original UI | <img src="images/" alt="ori"> |
 | ✏️ Sketch     | My initial wireframe or layout sketch       |
 | 💻 Final UI   | Clean, redesigned interface with improved flow |
 
