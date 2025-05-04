@@ -12,6 +12,8 @@ The original inspiration came from a website called **Style Text**, which offere
 - ❌ Difficult to navigate
 - ❌ Complicated text selection and copying
 - ❌ Poor overall usability for a simple task
+- Here is the original UI
+- <img src="images/original.jpeg" alt="ori">
 
 ---
 
@@ -36,15 +38,7 @@ Eventually, I decided to **broaden the purpose** by:
 
 ---
 
-## 📸 Visual Design Journey
 
-| Stage        | Description                                 |
-|--------------|---------------------------------------------|
-| 🖼️ Original UI | <img src="images/original.jpeg" alt="ori"> |
-| ✏️ Sketch     | My initial wireframe or layout sketch       |
-| 💻 Final UI   | Clean, redesigned interface with improved flow |
-
-> Check the `/assets` folder or project page for visuals.
 
 ---
 
