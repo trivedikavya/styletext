@@ -55,7 +55,7 @@ Eventually, I decided to **broaden the purpose** by:
 
 ## 💬 Feedback
 Open to feedback and suggestions!  
-Feel free to open an issue or connect on [LinkedIn](www.linkedin.com/in/trivedikavya).
+(www.linkedin.com/in/trivedikavya).
 
 ---
 
