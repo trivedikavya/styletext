@@ -1,4 +1,4 @@
-# 🔡 LinkedIn Text Formatter – UI Redesign
+# 🔡 LinkedIn Text Formatter – UI Redesign.
 
 ## 🛠️ What I Did
 I redesigned a web tool that allows users to format LinkedIn text with styles like **bold**, *italic*, and more using Unicode characters.
