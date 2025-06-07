@@ -1,4 +1,4 @@
-# 🔡 Linkedin -- problem -- solution ( In it also Have problem) -- developer solve that by own
+# 🔡 Linkedin -- problem -- solution (In it also Have problem) -- developer solve that by own
 
 ## 🛠 Main Problem Statement:
 LinkedIn's native post editor does not support basic text formatting options such as bold, italic, or stylistic fonts. As a result, users are unable to visually emphasize important parts of their posts, announcements, or profiles—limiting expressiveness and engagement. This lack of formatting capabilities creates a barrier for professionals who want their content to stand out or convey hierarchy in their messaging. ( Marked area represents that You can Set that Thing to there )
