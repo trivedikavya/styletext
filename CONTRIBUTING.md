@@ -16,19 +16,20 @@
 ## 2. Pull Request Template
 
 ```markdown
-## 📝 Description
+## Description
 Provide a brief summary of the changes and the logic behind them.
 
-## 🔗 Proof of Work (Required)
+## Proof of Work (Required)
 Please provide visual proof (Screenshots, GIFs, YouTube, or Drive links):
 - 
 
-## 🛠️ Logic & Implementation
+## Logic & Implementation
 Explain the technical logic you used:
 1. 
+2.
 
-## ✅ Checklist
-- [ ] **I have created a new branch for this PR (Not using the `main` branch).**
+## Checklist
+- [ ] I have created a new branch for this PR (Not using the `main` branch).
 - [ ] I am currently only assigned to this one issue.
 - [ ] My code follows the style guidelines of this project.
 - [ ] I have provided visual proof of the changes.
