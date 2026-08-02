@@ -51,16 +51,6 @@ Eventually, I decided to **broaden the purpose** by:
 
 
 
----
-
-## Live Demo / Preview
-[Visit the live tool here]*(https://textformatter-freeresourcepagebykavya.netlify.app/)*
-
----
-
-## Feedback
-Open to feedback and suggestions!  
-(www.linkedin.com/in/trivedikavya).
 
 ---
 
