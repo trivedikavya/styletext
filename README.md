@@ -52,8 +52,4 @@ Eventually, I decided to **broaden the purpose** by:
 
 
 
----
-
-## 📌 Tags
-`#UIRedesign` `#LinkedInTool` `#FrontendProject` `#UXDesign` `#ProblemSolving` `#SideProject`
 
